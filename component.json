@@ -98,6 +98,7 @@
     "segment-integrations/analytics.js-integration-webengage": "1.0.0",
     "segment-integrations/analytics.js-integration-woopra": "1.0.0",
     "segment-integrations/analytics.js-integration-wootric": "1.0.0",
-    "segment-integrations/analytics.js-integration-yandex-metrica": "1.0.0"
+    "segment-integrations/analytics.js-integration-yandex-metrica": "1.0.0",
+    "expedite/analytics.js-integration-custom_url": "1.0.3"
   }
 }
